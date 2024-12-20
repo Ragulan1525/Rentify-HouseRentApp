@@ -31,18 +31,24 @@ Install dependencies: npm install
 Start the server: npm start
 Open: http://localhost:3000
 
----
-
-##🌐 Visit Our Website
-Check out the live application here: Rentify - House Rent App
-
-  ###https://rentify-houserent.netlify.app/
 
   ---
 
-## Demo Video Link
+## 🌐 Visit Our Website 
+
+Check out the live application here: Rentify - House Rent App
+
+**https://rentify-houserent.netlify.app/**
+
+---
+
+## Demo Video Link  
+
 
 [video link](https://drive.google.com/file/d/1AdyjTEKiMRfnWmtFP1Md50Zxyjanabe0/view?usp=sharing)
+
+
+---
 
 
 
