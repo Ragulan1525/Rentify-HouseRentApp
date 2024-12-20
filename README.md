@@ -27,9 +27,11 @@ Rentify is a platform that simplifies property rentals, catering to tenants, pro
    ```bash
    git clone https://github.com/Ragulan1525/Rentify-HouseRentApp.git
    cd Rentify-HouseRentApp
-Install dependencies: npm install
+
+Install dependencies: npm install    
 Start the server: npm start
 Open: http://localhost:3000
+
 
 
   ---
